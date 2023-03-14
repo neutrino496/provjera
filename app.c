@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <unistd.h>
 
+#include promjena 
+
 FILE *fp;
 struct storage{
 	char name[15];
