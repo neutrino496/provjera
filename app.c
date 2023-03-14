@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#include promjena 
+#include promjena 2
+grana second
 
 FILE *fp;
 struct storage{
