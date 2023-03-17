@@ -1,0 +1,3 @@
+[submodule "git_p"]
+	path = git_p
+	url = https://github.com/neutrino496/git_p
