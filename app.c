@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#include promjena 2
-grana second
+nesto novo u kodu za trecu granu
 
 FILE *fp;
 struct storage{
