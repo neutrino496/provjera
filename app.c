@@ -3,7 +3,9 @@
 #include <unistd.h>
 
 #include promjena 2
-grana second
+
+#define promjenjiva 6
+unsigned int jk = 99;
 
 FILE *fp;
 struct storage{
